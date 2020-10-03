@@ -1,0 +1,11 @@
+{
+	"$schema": "vscode://schemas/color-theme",
+	"name": "Rocex Monokai",
+	"include": "../../../../resources/app/extensions/theme-monokai/themes/monokai-color-theme.json",
+	"colors": {
+		"activityBar.activeBorder": "#FF0000",
+		"editor.background": "#34352F",//34352F
+		"tab.activeBorder": "#FF0000",
+		//"tab.activeBorderTop": "#FF0000",
+	}
+}

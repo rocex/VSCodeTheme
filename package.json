@@ -1,0 +1,27 @@
+{
+	"name": "theme-mod",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"version": "0.0.1",
+	"publisher": "rocex",
+	"categories": ["themes"],
+	"license": "MIT",
+	"repository": "https://github.com/rocex/VSCodeThemee",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Light+ Mod",
+				"uiTheme": "vs",
+				"path": "./themes/light-plus-theme-mod.json"
+			},
+			{
+				"label": "Monokai Mod",
+				"uiTheme": "vs-dark",
+				"path": "./themes/monokai-theme-mod.json"
+			}
+		]
+	}
+}

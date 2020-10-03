@@ -1,0 +1,21 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Rocex Light+",
+  "include": "../../../../resources/app/extensions/theme-defaults/themes/light_plus.json",
+  "colors": {
+    "activityBar.activeBorder": "#FF0000",
+    "activityBar.background": "#24292E",
+    "activityBar.foreground": "#FAFBFC",
+    "editor.background": "#F9F9F9", //FAFBFC
+    "editor.lineHighlightBackground": "#F3F3F3",
+    "sideBar.background": "#F3F3F3",
+    "tab.activeBorder": "#FF0000",
+    //"tab.activeBorderTop": "#FF0000",
+    "tab.border": "#D0D0D0",
+    "tab.activeBackground": "#F3F3F3",
+    "tab.inactiveBackground": "#E7E7E7",
+    "titleBar.activeBackground": "#24292E",
+    "titleBar.activeForeground": "#CCCCCC",
+    "titleBar.inactiveBackground": "#3C3C3C"
+  }
+}
