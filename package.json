@@ -6,7 +6,7 @@
 	"publisher": "rocex",
 	"categories": ["themes"],
 	"license": "MIT",
-	"repository": "https://github.com/rocex/VSCodeThemee",
+	"repository": "https://github.com/rocex/vscode-theme",
 	"engines": {
 		"vscode": "*"
 	},
