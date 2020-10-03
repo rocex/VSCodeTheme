@@ -1,2 +1,2 @@
-# VSCodeTheme
-vscode theme mod
+# VSCode Theme
+vscode ligth and monokai theme mod

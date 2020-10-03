@@ -1,12 +1,26 @@
 {
 	"name": "theme-mod",
-	"displayName": "%displayName%",
-	"description": "%description%",
-	"version": "0.0.1",
+	"displayName": "Theme Mod",
+	"description": "default theme mod",
+	"version": "0.0.0",
 	"publisher": "rocex",
 	"categories": ["themes"],
 	"license": "MIT",
-	"repository": "https://github.com/rocex/vscode-theme",
+	"repository": {
+        "type": "git",
+        "url": "https://github.com/rocex/vscode-theme"
+    },
+	"icon": "images/icon.png",
+	"bugs": {
+        "url": "https://github.com/rocex/vscode-theme/issues"
+    },
+    "homepage": "https://github.com/rocex/vscode-theme/blob/main/README.md",
+    "keywords": [
+        "vscode",
+        "theme",
+        "light",
+        "monokai"
+    ],
 	"engines": {
 		"vscode": "*"
 	},
