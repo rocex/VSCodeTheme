@@ -1,7 +1,7 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "name": "Rocex Light+",
-  "include": "../../../../resources/app/extensions/theme-defaults/themes/light_plus.json",
+  "include": "./default/light_plus.json",
   "colors": {
     "activityBar.activeBorder": "#FF0000",
     "activityBar.background": "#24292E",
